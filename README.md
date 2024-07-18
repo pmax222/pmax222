@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Cyber-Sercurity.
 - 📫 How to reach me phamminhhung20042003@gmail.com
 
-<script src="https://tryhackme.com/badge/1623534"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/hungpm.png" alt="TryHackMe">
 
 <!---
 pmax222/pmax222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
