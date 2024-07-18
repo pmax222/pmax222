@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @pmax222
-- 👀 I’m interested in movies, basketball, and technology.
-- 🌱 I’m currently learning Cyber-Sercurity.
+### 👋 Hi, my name is Hung
+- 💻 I’m currently learning Cyber-Sercurity. With a background that includes participating in CTF (Capture The Flag) competitions, I have honed my skills in ethical hacking and problem-solving under pressure. My curiosity and passion for cybersecurity drive me to constantly learn and stay ahead of emerging threats.
 - 📫 How to reach me phamminhhung20042003@gmail.com
 
-<img src="https://tryhackme.com/badge/1623534" alt="TryHackMe">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmax222&show_icons=true&theme=transparent)
+### TryHackMe
+<img src="https://tryhackme-badges.s3.amazonaws.com/hungpm.png" alt="TryHackMe">
+
+
 
 <!---
 pmax222/pmax222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
