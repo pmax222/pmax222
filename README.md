@@ -1,11 +1,9 @@
 # Hi 👋, I'm Hung</h1>
-#### My curiosity and passion for cybersecurity drive me to constantly learn and stay ahead of emerging threats.
+#### My curiosity and passion for cybersecurity drive me to constantly learn.
 
 - 🌱 I’m currently learning **Cyber-security, Computer-science**
 
-- 💬 Ask me about **Pentest, IOT device.**
-
-- 📫 How to reach me **Phamminhhung20042003@gmail.com**
+- 💬 Ask me about **Pentest, IOT project.**
 
 ### Connect with me:
 
