@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hung</h1>
-<h3 align="center">My curiosity and passion for cybersecurity drive me to constantly learn and stay ahead of emerging threats.</h3>
+# Hi 👋, I'm Hung</h1>
+#### My curiosity and passion for cybersecurity drive me to constantly learn and stay ahead of emerging threats.
 
 - 🌱 I’m currently learning **Cyber-security, Computer-science**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Phamminhhung20042003@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 
 [![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MinhHungP/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phamminhhung20042003@gmail.com)
