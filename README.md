@@ -30,7 +30,7 @@
 
 
 ### TryHackMe
-<img src="https://tryhackme-badges.s3.amazonaws.com/hungpm.png" alt="Your Image Badge" />
+<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1623534" alt="Your Image Badge" />
 
 
 
