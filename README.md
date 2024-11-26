@@ -29,10 +29,8 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-### TryHackMe
-<img src="https://tryhackme-badges.s3.amazonaws.com/hungpm.png" alt="TryHackMe Badge"/>
+### TryHackMe:
 [![image](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/hungpm)
-
 
 
 
