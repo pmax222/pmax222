@@ -30,8 +30,9 @@
 
 
 ### TryHackMe
-<img src="https://tryhackme-badges.s3.amazonaws.com/hungpm.png" alt="TryHackMe Badge" width="200" />
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1623534&format=image)
+<img src="https://tryhackme-badges.s3.amazonaws.com/hungpm.png" alt="TryHackMe Badge"/>
+[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1623534)](https://tryhackme.com/p/hungpm)
+
 
 
 
