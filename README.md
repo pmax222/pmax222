@@ -32,6 +32,7 @@
 ### TryHackMe:
 [![image](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/hungpm)
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/hungpm.png" alt="Your Image Badge" />
 
 
 <!---
