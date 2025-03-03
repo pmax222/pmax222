@@ -38,7 +38,7 @@
 [![image](https://img.shields.io/badge/RootMe-Profile-red?style=for-the-badge&logo=rootme&logoColor=white)](https://www.root-me.org/L30N?lang=en#18047c0a97766d7a8a80a29fdc20c69e)
 
 ### LetsDefende:
-[![image](https://badgen.net/badge/color/blue/blue?label=LetsDefend)](https://app.letsdefend.io/user/l40n_403)
+[![image](https://badgen.net/badge/color/BLUE/blue?label=LetsDefend)](https://app.letsdefend.io/user/l40n_403)
 
 
 <!---
