@@ -34,7 +34,8 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/hungpm.png" alt="Your Image Badge" />
 
-
+### RootMe:
+[![image](https://img.shields.io/badge/RootMe-Profile-red?style=for-the-badge&logo=rootme&logoColor=white)]((https://www.root-me.org/L30N?lang=en#18047c0a97766d7a8a80a29fdc20c69e))
 <!---
 pmax222/pmax222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
