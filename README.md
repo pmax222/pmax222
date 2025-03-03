@@ -28,17 +28,16 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+### LetsDefende:
+[![image](https://badgen.net/badge/color/BLUE/blue?label=LetsDefend)](https://app.letsdefend.io/user/l40n_403)
 
-### TryHackMe:
-[![image](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/hungpm)
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/hungpm.png" alt="Your Image Badge" />
+<!---<img src="https://tryhackme-badges.s3.amazonaws.com/hungpm.png" alt="Your Image Badge" /> --->
 
 ### RootMe:
 [![image](https://img.shields.io/badge/RootMe-Profile-red?style=for-the-badge&logo=rootme&logoColor=white)](https://www.root-me.org/L30N?lang=en#18047c0a97766d7a8a80a29fdc20c69e)
 
-### LetsDefende:
-[![image](https://badgen.net/badge/color/BLUE/blue?label=LetsDefend)](https://app.letsdefend.io/user/l40n_403)
+### TryHackMe:
+[![image](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/hungpm)
 
 
 <!---
