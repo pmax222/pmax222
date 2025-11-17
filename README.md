@@ -29,7 +29,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ### LetsDefende:
-[![image](https://badgen.net/badge/color/BLUE/blue?label=LetsDefend)](https://app.letsdefend.io/user/l40n_403)
+[![image](https://img.shields.io/badge/LetsDefende-Profile-red?style=for-the-badge&logo=LetsDefende&logoColor=white)](https://app.letsdefend.io/user/l40n_403)
 
 <!---<img src="https://tryhackme-badges.s3.amazonaws.com/hungpm.png" alt="Your Image Badge" /> --->
 
